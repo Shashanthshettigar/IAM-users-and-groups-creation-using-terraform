@@ -4,3 +4,4 @@ instace_type = "t3.medium"
 ami          = "ami-051bfa33df3949860"
 instace_count = "2"
 availability_zone = "10.0.0.0/32"
+
